@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f747e2b4-8305-427b-95a1-015ffe0e877b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/senac/rn/agenda/TestaPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/senac/rn/agenda/TestaPrograma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/senac/rn/agenda/model/Contato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/senac/rn/agenda/model/Contato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/senac/rn/agenda/repository/ContatoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/senac/rn/agenda/repository/ContatoRepository.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +40,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TestaPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.senac.rn.agenda.TestaPrograma" />
+      <module name="agenda-v1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.senac.rn.agenda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestaPrograma" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -57,7 +78,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
